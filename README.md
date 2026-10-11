@@ -1,4 +1,6 @@
 ALL FIVE Task detail are given below 
+
+
 Task 1: The Messy Sales Log
 Description: Analyzes a raw branch export file to identify data quality issues (such as duplicate orders, formatting errors, and blank categories), assigns fix ownership across source systems, ETL, and business teams, and outlines cleaning steps for accurate revenue reporting.
 
